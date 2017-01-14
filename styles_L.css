@@ -1,0 +1,16 @@
+* { outline: 1px green; }
+
+h1 { color: blue;
+     font-style: normal;
+     font-weight: normal;
+    }
+heading {color:orange;
+          font-size: 28;
+          font-style: italic;
+    }
+centered {text-align:center;
+    }
+img {
+  height: 125px;
+  width: 125px;
+}
